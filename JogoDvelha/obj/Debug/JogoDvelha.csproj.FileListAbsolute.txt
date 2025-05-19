@@ -1,0 +1,10 @@
+C:\Users\roberta.boliveira5\source\repos\JogoDvelha\JogoDvelha\bin\Debug\JogoDvelha.exe.config
+C:\Users\roberta.boliveira5\source\repos\JogoDvelha\JogoDvelha\bin\Debug\JogoDvelha.exe
+C:\Users\roberta.boliveira5\source\repos\JogoDvelha\JogoDvelha\bin\Debug\JogoDvelha.pdb
+C:\Users\roberta.boliveira5\source\repos\JogoDvelha\JogoDvelha\obj\Debug\JogoDvelha.csproj.AssemblyReference.cache
+C:\Users\roberta.boliveira5\source\repos\JogoDvelha\JogoDvelha\obj\Debug\JogoDvelha.Form1.resources
+C:\Users\roberta.boliveira5\source\repos\JogoDvelha\JogoDvelha\obj\Debug\JogoDvelha.Properties.Resources.resources
+C:\Users\roberta.boliveira5\source\repos\JogoDvelha\JogoDvelha\obj\Debug\JogoDvelha.csproj.GenerateResource.cache
+C:\Users\roberta.boliveira5\source\repos\JogoDvelha\JogoDvelha\obj\Debug\JogoDvelha.csproj.CoreCompileInputs.cache
+C:\Users\roberta.boliveira5\source\repos\JogoDvelha\JogoDvelha\obj\Debug\JogoDvelha.exe
+C:\Users\roberta.boliveira5\source\repos\JogoDvelha\JogoDvelha\obj\Debug\JogoDvelha.pdb
