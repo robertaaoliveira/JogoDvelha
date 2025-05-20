@@ -95,84 +95,101 @@
             // 
             this.btn11.BackColor = System.Drawing.SystemColors.Control;
             this.btn11.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn11.Font = new System.Drawing.Font("Microsoft Sans Serif", 26F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn11.Font = new System.Drawing.Font("Microsoft Sans Serif", 30F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn11.Location = new System.Drawing.Point(144, 167);
             this.btn11.Name = "btn11";
             this.btn11.Size = new System.Drawing.Size(84, 79);
             this.btn11.TabIndex = 4;
             this.btn11.UseVisualStyleBackColor = false;
+            this.btn11.Click += new System.EventHandler(this.jogada_Click);
             // 
             // btn12
             // 
             this.btn12.BackColor = System.Drawing.SystemColors.Control;
+            this.btn12.Font = new System.Drawing.Font("Microsoft Sans Serif", 30F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn12.Location = new System.Drawing.Point(259, 167);
             this.btn12.Name = "btn12";
             this.btn12.Size = new System.Drawing.Size(88, 79);
             this.btn12.TabIndex = 5;
             this.btn12.UseVisualStyleBackColor = false;
+            this.btn12.Click += new System.EventHandler(this.jogada_Click);
             // 
             // btn13
             // 
             this.btn13.BackColor = System.Drawing.SystemColors.Control;
+            this.btn13.Font = new System.Drawing.Font("Microsoft Sans Serif", 30F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn13.Location = new System.Drawing.Point(369, 167);
             this.btn13.Name = "btn13";
             this.btn13.Size = new System.Drawing.Size(90, 79);
             this.btn13.TabIndex = 6;
             this.btn13.UseVisualStyleBackColor = false;
+            this.btn13.Click += new System.EventHandler(this.jogada_Click);
             // 
             // btn22
             // 
             this.btn22.BackColor = System.Drawing.SystemColors.Control;
+            this.btn22.Font = new System.Drawing.Font("Microsoft Sans Serif", 30F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn22.Location = new System.Drawing.Point(259, 280);
             this.btn22.Name = "btn22";
             this.btn22.Size = new System.Drawing.Size(90, 79);
             this.btn22.TabIndex = 7;
             this.btn22.UseVisualStyleBackColor = false;
+            this.btn22.Click += new System.EventHandler(this.jogada_Click);
             // 
             // btn23
             // 
             this.btn23.BackColor = System.Drawing.SystemColors.Control;
+            this.btn23.Font = new System.Drawing.Font("Microsoft Sans Serif", 30F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn23.Location = new System.Drawing.Point(369, 280);
             this.btn23.Name = "btn23";
             this.btn23.Size = new System.Drawing.Size(90, 79);
             this.btn23.TabIndex = 8;
             this.btn23.UseVisualStyleBackColor = false;
+            this.btn23.Click += new System.EventHandler(this.jogada_Click);
             // 
             // btn33
             // 
             this.btn33.BackColor = System.Drawing.SystemColors.Control;
+            this.btn33.Font = new System.Drawing.Font("Microsoft Sans Serif", 30F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn33.Location = new System.Drawing.Point(369, 393);
             this.btn33.Name = "btn33";
             this.btn33.Size = new System.Drawing.Size(90, 79);
             this.btn33.TabIndex = 9;
             this.btn33.UseVisualStyleBackColor = false;
+            this.btn33.Click += new System.EventHandler(this.jogada_Click);
             // 
             // btn32
             // 
             this.btn32.BackColor = System.Drawing.SystemColors.Control;
+            this.btn32.Font = new System.Drawing.Font("Microsoft Sans Serif", 30F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn32.Location = new System.Drawing.Point(258, 393);
             this.btn32.Name = "btn32";
             this.btn32.Size = new System.Drawing.Size(90, 79);
             this.btn32.TabIndex = 10;
             this.btn32.UseVisualStyleBackColor = false;
+            this.btn32.Click += new System.EventHandler(this.jogada_Click);
             // 
             // btn31
             // 
             this.btn31.BackColor = System.Drawing.SystemColors.Control;
+            this.btn31.Font = new System.Drawing.Font("Microsoft Sans Serif", 30F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn31.Location = new System.Drawing.Point(144, 393);
             this.btn31.Name = "btn31";
             this.btn31.Size = new System.Drawing.Size(90, 79);
             this.btn31.TabIndex = 11;
             this.btn31.UseVisualStyleBackColor = false;
+            this.btn31.Click += new System.EventHandler(this.jogada_Click);
             // 
             // btn21
             // 
             this.btn21.BackColor = System.Drawing.SystemColors.Control;
+            this.btn21.Font = new System.Drawing.Font("Microsoft Sans Serif", 30F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn21.Location = new System.Drawing.Point(144, 280);
             this.btn21.Name = "btn21";
             this.btn21.Size = new System.Drawing.Size(90, 79);
             this.btn21.TabIndex = 12;
             this.btn21.UseVisualStyleBackColor = false;
+            this.btn21.Click += new System.EventHandler(this.jogada_Click);
             // 
             // lblInfo
             // 
